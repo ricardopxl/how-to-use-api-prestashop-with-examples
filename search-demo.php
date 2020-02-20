@@ -25,9 +25,9 @@
 		/**
 		* Configuration available for this code
 		**/
-		$search = new Search();
-		$search->endPoint = 'https://mywebsite.cl/api/';
-		$search->authorization = 'MYTOKENASDFGHJKLJHGFD';
+		$connector = new ConnectorPS();
+		$connector->endPoint = 'https://mywebsite.cl/api/';
+		$connector->authorization = 'MYTOKENASDFGHJKLJHGFD';
 		
 		/*BUILD PARAMS TO SEARCH*/
 		$params = array(
@@ -37,7 +37,7 @@
 					'display'	=> 'full'
 				);
 
-		$response = $search->find('search',$params);
+		$response = $connector->find('search',$params);
 		$response = json_decode($response);
 
 		/**
