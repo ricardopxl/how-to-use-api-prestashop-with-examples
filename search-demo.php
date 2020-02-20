@@ -26,7 +26,7 @@
 		* Configuration available for this code
 		**/
 		$connector = new ConnectorPS();
-		$connector->endPoint = 'https://mywebsite.cl/api/';
+		$connector->endPoint = 'https://1234.cl/api/';
 		$connector->authorization = 'MYTOKENASDFGHJKLJHGFD';
 		
 		/*BUILD PARAMS TO SEARCH*/
