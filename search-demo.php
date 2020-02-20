@@ -29,7 +29,7 @@
 		$search->endPoint = 'https://mywebsite.cl/api/';
 		$search->authorization = 'MYTOKENASDFGHJKLJHGFD';
 		
-		/*BULD PARAMS TO SEARCH*/
+		/*BUILD PARAMS TO SEARCH*/
 		$params = array(
 					'language' 	=> 1,
 					'query' 	=> $query,
