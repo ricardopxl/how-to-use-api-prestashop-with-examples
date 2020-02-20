@@ -4,7 +4,7 @@
 @URL: 		https://digitag.cl
 @Date: 		20-02-2020
 */
-	class Search 
+	class ConnectorPS 
 	{
 		public $endPoint = 'http://url/api/';
 		public $authorization = "YOUR_TOKEN_AUTHORIZATION";
