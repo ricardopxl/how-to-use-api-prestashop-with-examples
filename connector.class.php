@@ -6,7 +6,7 @@
 */
 	class ConnectorPS 
 	{
-		public $endPoint = 'http://url/api/';
+		public $endPoint = 'http://1234.cl/api/';
 		public $authorization = "YOUR_TOKEN_AUTHORIZATION";
 		public $outPut = array('output_format'=>'JSON'); # RECOMENDED FOR THIS CODE
 		
