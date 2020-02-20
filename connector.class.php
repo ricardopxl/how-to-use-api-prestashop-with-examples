@@ -1,4 +1,9 @@
 <?php  
+/*
+@Author: 	Ricardopxl
+@URL: 		https://digitag.cl
+@Date: 		20-02-2020
+*/
 	class Search 
 	{
 		public $endPoint = 'http://url/api/';
