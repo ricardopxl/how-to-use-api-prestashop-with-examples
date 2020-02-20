@@ -1,12 +1,16 @@
 # search-api-prestashop
 How to use API Prestashop - Simple.
 
-¿You need use a search producto from your Prestashop? We can a simple and usefull code for you porpuse.
+¿You need a search products from your Prestashop Store? We can a simple and usefull code for you porpuse.
 
-Content Two Files:
+How to use:
+1) Create a folder "process" in root your Prestashop example: public_html/process
+2) search-demo.php, This file connect to your Prestashop and *GET* result for search 
+3) search-demo.php insert your URL API and Your Token for Authorization Access.
+3) connector.class, This class has minimal requirements to use GET data and connect to API Prestashop.
 
-1) search-demo.php, This file connect to your Prestashop and *GET* result for search 
-2) connector.class, This class has minimal requirements to use GET data and connect to API Prestashop.
+
+This code is Test in Prestashop 1.7
 
 Thanks :)
 
