@@ -25,8 +25,8 @@ Como se utiliza:
 Como se utiliza: https://1234.cl/api/process/demo-search.php?query=POLERA
 
 # Additional information
-*) Official documentation: https://devdocs.prestashop.com/1.7/development/webservice/
-*) This code is Test in Prestashop 1.7
+1) Official documentation: https://devdocs.prestashop.com/1.7/development/webservice/
+2) This code is Test in Prestashop 1.7
 
 
 
