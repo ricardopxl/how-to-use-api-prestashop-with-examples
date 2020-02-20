@@ -24,6 +24,8 @@ Como se utiliza:
 
 Como se utiliza: https://1234.cl/api/process/demo-search.php?query=POLERA
 
+Official documentation: https://devdocs.prestashop.com/1.7/development/webservice/
+
 Thanks :)
 
 Ricardo Rebolledo (ricardopxl)
