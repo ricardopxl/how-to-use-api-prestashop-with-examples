@@ -1,4 +1,4 @@
-# HOW TO USE API PRESTASHOP (EXAMPLE SEARCH PRODUCT, SCALABLE TO OTHER OBJECTS)
+# How to use API Prestashop (Example search product, scalable to other objects)
 How to use API Prestashop - Simple.
 
 ¿You need a search products from your Prestashop Store? We can a simple and usefull code for you porpuse.
